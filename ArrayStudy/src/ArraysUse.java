@@ -23,6 +23,7 @@ public class ArraysUse {
         System.out.println(isEquals);
 //    调用toString方法，打印数组元素
         System.out.println(Arrays.toString(arr1));
+
     }
 
 }
