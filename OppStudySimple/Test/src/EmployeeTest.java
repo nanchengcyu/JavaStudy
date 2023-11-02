@@ -19,6 +19,7 @@ public class EmployeeTest {
         employee2.name = "南城余";
         employee2.salary = 80000.00;
         employee2.age = 20;
+        
         System.out.println(employee1.age+employee1.name+ employee1.id+ employee1.salary);
         System.out.println(employee2.age+employee2.name+employee2.id+employee2.salary);
 

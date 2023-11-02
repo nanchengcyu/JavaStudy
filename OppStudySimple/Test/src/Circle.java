@@ -20,6 +20,11 @@ public class Circle {
         System.out.println(circle.area1(2));
     }
 //   无返回值
+
+    /**
+     *
+     * @param r
+     */
     public  void area(double r){
 
         double area = PI*r*r;
@@ -27,6 +32,12 @@ public class Circle {
         System.out.println(area);
     }
 //    有返回值
+
+    /**
+     *
+     * @param r1 ，半径
+     * @return 圆的面积
+     */
     public double area1(double r1){
 
         return  (PI*r1*r1);
