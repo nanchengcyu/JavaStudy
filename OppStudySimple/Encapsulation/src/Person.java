@@ -10,6 +10,8 @@
 public class Person {
     private int age;
 
+    //set方法一般使用无返回值类型；
+   //get方法一般使用有返回值类型的；
     public void setAge(int a){
         if (age >= 0 && age <= 130){
              age = a ;
