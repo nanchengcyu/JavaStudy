@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp_study_simple/opp_study_simple.iml" filepath="$PROJECT_DIR$/opp_study_simple/opp_study_simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppordinary/oppordinary.iml" filepath="$PROJECT_DIR$/oppordinary/oppordinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppsenior/oppsenior.iml" filepath="$PROJECT_DIR$/oppsenior/oppsenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppcommon/test/test.iml" filepath="$PROJECT_DIR$/oppcommon/test/test.iml" />
     </modules>
   </component>
