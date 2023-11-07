@@ -35,4 +35,14 @@ public class JunitTest {
           scanner.close();
       }
 
+
+      @Test
+      public void test2(){
+          double a = 1000.0;
+          int b = 1000;
+          Integer c = b;
+//          System.out.println(a == b);
+          System.out.println(c);
+      }
+
 }
