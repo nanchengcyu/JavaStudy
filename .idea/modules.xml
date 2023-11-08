@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/oppordinary/oppordinary.iml" filepath="$PROJECT_DIR$/oppordinary/oppordinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppsenior/oppsenior.iml" filepath="$PROJECT_DIR$/oppsenior/oppsenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppcommon/test/test.iml" filepath="$PROJECT_DIR$/oppcommon/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
     </modules>
   </component>
 </project>
