@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcproject/jdbcproject.iml" filepath="$PROJECT_DIR$/jdbcproject/jdbcproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcstudy/jdbcstudy.iml" filepath="$PROJECT_DIR$/jdbcstudy/jdbcstudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp_study_simple/opp_study_simple.iml" filepath="$PROJECT_DIR$/opp_study_simple/opp_study_simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppordinary/oppordinary.iml" filepath="$PROJECT_DIR$/oppordinary/oppordinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/oppsenior/oppsenior.iml" filepath="$PROJECT_DIR$/oppsenior/oppsenior.iml" />
