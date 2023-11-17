@@ -23,7 +23,7 @@ public class Jdbc {
 //        1. 注册驱动
 //        DriverManager.registerDriver(new Driver());
 //        2. 获取连接
-        Connection connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/atguigu", "root", "zhu1280829980..");
+        Connection connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/atguigu", "root", "zxxxxxx.");
 //        3. 创建发送sql语句，并获取返回结果
         Statement statement = connection.createStatement();
         String sql = "select employee_id,first_name from employees;";
